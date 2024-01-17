@@ -22,8 +22,10 @@ To use this project, follow these steps:
 
 ## Functionality
 
-1. Perform SQL queries to insert, delete and manipulate data in the database
+1. Allows creation, deletion, updation and insertion of records in tables
 
-2. SQL to RA conversion and vice versa
+2. Allows conversion of SQL query to Relational Algebra and vice versa
 
-3. Retrieve required data from the database
+3. Provides for retrieving data from tables using SQL queries
+
+4. Interactive GUI built using Tkinter library of python
