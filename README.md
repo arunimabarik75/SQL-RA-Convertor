@@ -29,3 +29,8 @@ To use this project, follow these steps:
 3. Provides for retrieving data from tables using SQL queries
 
 4. Interactive GUI built using Tkinter library of python
+
+
+## Documentation
+
+`Report.pdf` contains detailed usage of the project with screenshots.
