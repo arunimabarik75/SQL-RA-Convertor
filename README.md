@@ -18,9 +18,7 @@ To use this project, follow these steps:
 
     - Grant this user all necessary permissions.
 
-## Code
-
-The main code for performing the conversions and retrieving data from the database can be found in the `final.py` file.
+3. Clone this repository and execute `final.py` to use the project.
 
 ## Functionality
 
